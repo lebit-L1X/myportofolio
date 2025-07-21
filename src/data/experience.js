@@ -19,8 +19,7 @@ export const professionalExperience = [
     description:
       'Built responsive Vue.js pages from Figma designs, collaborated with designers, and delivered reusable front-end components.',
     highlights: [
-      'Converted Figma designs into Vue components with Tailwind CSS',
-      'Delivered pixel-perfect pages for company website'
+      'Converted Figma designs into Vue components with Tailwind CSS and Vue.js',
     ],
     link: ''
   },

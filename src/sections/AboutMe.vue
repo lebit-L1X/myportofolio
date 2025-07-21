@@ -4,21 +4,14 @@ import TechStackSection from '../components/TechStack.vue'
 
 <template>
   <main class="bg-site text-white min-h-screen">
-   <section class="flex flex-col items-center text-center px-6 pt-20 pb-10">
+<section class="flex flex-col items-center text-center px-6 pt-20 pb-0">
   <h2 class="text-4xl font-bold text-rose-900 mb-2">
-    Skills & Expertise
+    Skills
   </h2>
   <p class="text-base text-rose-700 max-w-2xl">
-    Here's a quick overview of my skills: I build full-stack applications using
-    <span class="font-semibold text-rose-900"> Vue.js, Node.js, and PostgreSQL</span>,
-    create embedded systems with <span class="font-semibold text-rose-900">C/C++ and ESP32</span>,
-    and apply <span class="font-semibold text-rose-900">Python and machine learning</span> in research.
-    I’m also experienced in <span class="font-semibold text-rose-900">QA automation with Java and Selenium</span>,
-    and always excited to explore new technologies.
+A curation of the skills, frameworks, and tools I’ve learned and continue to build upon..
   </p>
 </section>
-
-
     <TechStackSection />  
   </main>
 </template>

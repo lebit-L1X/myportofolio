@@ -1,5 +1,5 @@
 <template>
-  <section class="px-6 py-12 text-white text-center">
+<section class="px-6 py-12 -mt-10 text-white text-center">
   
     <div class="flex justify-center gap-4 mb-10">
       <button
