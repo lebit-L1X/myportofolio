@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+
+@layer utilities {
+  .bg-site {
+    background-image: linear-gradient(
+      135deg,
+      #fdf2f8 0%,     /* Soft pink base */
+      #fce7f3 25%,    /* Pastel blush */
+      #fbcfe8 50%,    /* Putty pink */
+      #f5bfe3 75%,    /* Muted fuchsia tint */
+      #f3a4db 100%    /* Very soft, brushed fuchsia */
+    );
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}

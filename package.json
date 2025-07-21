@@ -10,10 +10,12 @@
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
+    "gsap": "^3.13.0",
     "vue": "^3.5.17",
     "vue-router": "^4.5.1"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
     "@tailwindcss/vite": "^4.1.11",
     "@vitejs/plugin-vue": "^6.0.0",
     "autoprefixer": "^10.4.21",
