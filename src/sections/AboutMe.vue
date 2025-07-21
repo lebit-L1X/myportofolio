@@ -39,7 +39,7 @@ import TechStackSection from "../components/TechStack.vue";
       </div>
     </section>
 
-    <section class="py-16 px-6 border-t border-white/30">
+    <section class="py-6 px-6 border-t border-white/30">
       <div class="max-w-5xl mx-auto flex flex-col items-center text-center">
         <h3 class="text-3xl font-bold mb-3">Skills</h3>
         <p class="text-base max-w-2xl">
@@ -53,7 +53,7 @@ import TechStackSection from "../components/TechStack.vue";
       <TechStackSection />
     </div>
 
-    <section class="py-12 px-6 border-t border-white/30">
+    <section class="px-6 py-6 border-t border-white/30">
       <div class="max-w-5xl mx-auto flex flex-col items-center text-center">
         <p class="text-base max-w-2xl">
           Interested in my qualifications and experience? Download my complete
