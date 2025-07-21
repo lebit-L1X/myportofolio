@@ -7,7 +7,7 @@
         :class="activeTab === 'career' ? 'bg-pink-500 text-white' : 'border-pink-500 text-pink-400'"
         @click="activeTab = 'career'"
       >
-        Experience
+        Professions
       </button>
       <button
         class="px-4 py-1 rounded-full border text-sm font-medium"

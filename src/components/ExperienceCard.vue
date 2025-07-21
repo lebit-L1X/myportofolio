@@ -8,7 +8,8 @@
     </h4>
 
     <p class="text-sm text-rose-700 mb-2">
-      {{ data.org }} <span class="text-xs text-rose-400">• {{ data.date }}</span>
+      {{ data.org }}
+      <span class="text-xs text-rose-400">• {{ data.date }}</span>
     </p>
 
     <p class="text-sm text-rose-700 mb-2">{{ data.description }}</p>
@@ -17,14 +18,19 @@
       <li v-for="(point, idx) in data.highlights" :key="idx">{{ point }}</li>
     </ul>
 
-    <a
-      v-if="data.link"
-      :href="data.link"
-      target="_blank"
-      class="text-xs text-rose-600 underline hover:text-rose-500"
-    >
-      Visit Website
-    </a>
+
+    <div v-if="data.techStack && data.techStack.length" class="flex flex-wrap gap-2 mt-2 py-4 justify-center">
+
+      <span
+        v-for="(tech, index) in data.techStack"
+        :key="index"
+        class="px-3 py-1 text-sm rounded-full bg-rose-100 text-rose-800 border border-rose-300"
+      >
+        {{ tech }}
+      </span>
+    </div>
+
+   
   </div>
 </template>
 

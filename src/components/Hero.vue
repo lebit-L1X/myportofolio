@@ -29,6 +29,9 @@ HeroAnimation(yellowBlob, greenBlob, whiteBlob, coralBlob, blueBlob, lilacBlob);
   <p class="text-rose-700 text-lg leading-relaxed text-justify">
     Final-year Computer Engineering undergrad passionate about software engineering, embedded systems, and machine learning. Eager to learn, quick to adapt, and driven to build meaningful tech.
   </p>
+<p class="text-rose-600 text-sm italic mt-4">
+  P.S. The site is still rough around the edges. I'm still working on it. Cheers!
+</p>
 </div>
 
 

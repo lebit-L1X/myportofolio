@@ -1,5 +1,5 @@
 <template>
-  <section class="px-6 py-12 text-white text-center">
+  <section class="px-6 py-12 text-center">
    
 
     <!-- Tabs -->
