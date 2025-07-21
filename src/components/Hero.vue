@@ -25,12 +25,12 @@ HeroAnimation(yellowBlob, greenBlob, whiteBlob, coralBlob, blueBlob, lilacBlob)
       </h1>
 
 
-      <p class="text-gray-700 text-lg leading-relaxed">
+      <p class=" text-rose-700 text-lg leading-relaxed">
         Final-year Computer Engineering undergraduate with a keen interest in Software Engineering. Through my internship at OpenWay, I gained hands-on QA Engineering experience in the fintech sector, collaborating with international teams.
         <br /><br />
         I’m actively developing my software development skills through self-driven projects, supported by a solid academic foundation. My interests also include Machine Learning, IoT, and Embedded Systems.
         <br /><br />
-        I'm eager to learn, quick to adapt, and passionate about building reliable, impactful technology. This portfolio itself is a project to learn <span class="font-medium text-primary">GSAP</span> — demonstrating my willingness to understand concepts through courses and apply them in practice.
+        I'm eager to learn, quick to adapt, and passionate about building reliable, impactful technology.
       </p>
 
     </div>

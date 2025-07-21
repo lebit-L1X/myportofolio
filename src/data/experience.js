@@ -66,26 +66,16 @@ export const educationExperience = [
 ]
 
 export const organizationExperience = [
-  {
-    title: 'Google Developer Student Club – UI',
-    org: 'GDSC',
-    date: '2024 – Present',
-    description: 'Competitive programmer and core team member contributing DSA resources and managing algorithm contests.',
-    highlights: [
-      'Hosted 10+ weekly contests with solution repositories',
-      'Created open-source DSA resources for peers'
-    ],
-    link: 'https://gdsc.community.dev/'
-  },
-  {
-    title: 'Maths πrate Club',
+ {
+    title: "Bachelor's Degree in Computer Engineering",
     org: 'University of Indonesia',
-    date: '2021 – 2023',
-    description: 'Deepened problem-solving skills and explored advanced math topics through regular club activities.',
+    date: 'Aug 2022 – Jul 2026 (Expected)',
+    description: 'Pursuing a degree with focus on Software Engineering, Embedded Systems, and AI.',
     highlights: [
-      'Enhanced understanding of calculus and 3D geometry',
-      'Gained experience presenting complex problems'
+      'GPA: 3.76 / 4.00',
+      'Finalist KRTI VTOL Drone 2024',
+      'Adaro and Hana Scholarship Recipient'
     ],
-    link: ''
+    link: 'https://eng.ui.ac.id/en/'
   }
 ]

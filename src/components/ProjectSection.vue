@@ -1,11 +1,6 @@
 <template>
   <section class="px-6 py-12 text-white text-center">
-    <h2 class="text-4xl font-bold mb-4">
-      My <span class="text-pink-400">Projects</span>
-    </h2>
-    <p class="text-sm text-slate-300 mb-8">
-      A showcase of my work across software development, embedded systems, and machine learning.
-    </p>
+   
 
     <!-- Tabs -->
     <div class="flex justify-center gap-4 mb-10">

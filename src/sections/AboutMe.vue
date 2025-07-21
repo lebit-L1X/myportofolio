@@ -6,7 +6,7 @@ import TechStackSection from '../components/TechStack.vue'
   <main class="bg-site text-white min-h-screen">
    <section class="flex flex-col items-center text-center px-6 pt-20 pb-10">
   <h2 class="text-4xl font-bold text-rose-900 mb-2">
-    Skills & <span class="text-transparent bg-clip-text bg-gradient-to-r from-rose-500 to-pink-500">Expertise</span>
+    Skills & Expertise
   </h2>
   <p class="text-base text-rose-700 max-w-2xl">
     Here's a quick overview of my skills: I build full-stack applications using
